@@ -10,6 +10,12 @@ Express.js is used to set up the backend server
 
 Socket.io is used to realtime response on the app
 
+## Deployment
+
+Client is deployed on Netlify.com
+
+Server is deployed on Heroku.com
+
 ## Demo
 Have a try on this link: https://goofy-swirles-a01bfd.netlify.app/
 Followings are some picture of the project
