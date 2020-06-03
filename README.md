@@ -4,7 +4,11 @@ This project is a chat room application that allows people to chat
 
 ## Technologies Used
 
-Socket.io, Node.js, and React.js are used in the project
+React.js is used to create the frontend app
+
+Express.js is used to set up the backend server
+
+Socket.io is used to realtime response on the app
 
 ## Demo
 Have a try on this link: https://goofy-swirles-a01bfd.netlify.app/
